@@ -1,4 +1,4 @@
-import Boxes from './components/canvas';
+import Boxes from './components/Canvas';
 import './App.css';
 
 function App() {
